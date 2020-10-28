@@ -15,7 +15,9 @@ subtitle = ""
 
 +++
 
-**Working Papers**
+## Working Papers
+
+-----------------------
 
 Advantageous Selection and the Bankruptcy Code: Evidence from the US P2P Lending Market (*draft coming soon*)
 

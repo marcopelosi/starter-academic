@@ -77,4 +77,4 @@ user_groups:
 #- Visitors
 ---
 
-I am a PhD Candidate in Finance at the London School of Economics. I am interested in Household and Corporate Finance
+I am a PhD Candidate in Finance at the London School of Economics. I am interested in Household and Corporate Finance.
