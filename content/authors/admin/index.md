@@ -78,3 +78,5 @@ user_groups:
 ---
 
 I am a PhD Candidate in Finance at the London School of Economics. I am interested in Household and Corporate Finance.
+
+You can find my CV [here](files/cv.pdf).
