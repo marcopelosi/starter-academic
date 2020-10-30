@@ -11,7 +11,7 @@ role: PhD Candidate in Finance
 # Organizations/Affiliations
 organizations:
 - name: London School of Economics
-  url: "https://www.lse.ac.uk/finance"
+  url: ""
 
 # Short bio (displayed in user profile at end of posts)
 bio: I am a PhD Candidate in Finance at the London School of Economics
