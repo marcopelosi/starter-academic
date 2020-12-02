@@ -93,11 +93,11 @@ phone = ""
 
 # Address
 # For country_code, use the 2-letter ISO code (see https://en.wikipedia.org/wiki/ISO_3166-1_alpha-2 )
-address = {street = "Houghton Street", city = "London", region = "", postcode = "WC2A 2AE", country = "United Kingdom", country_code = "UK"}
+address = {street = "Via Nazionale, 190", city = "Rome", region = "", postcode = "00184", country = "Italy", country_code = "IT"}
 
 # Geographic coordinates
 # To get your coordinates, right-click on Google Maps and choose "What's here?". The coords will show up at the bottom.
-coordinates = {latitude = "51.5144", longitude = "-0.1165"}
+coordinates = {latitude = "41.8973509", longitude = "12.4867947"}
 
 # Directions for visitors to locate you.
 directions = ""

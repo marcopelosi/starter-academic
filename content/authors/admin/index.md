@@ -6,15 +6,15 @@ title: Marco Pelosi
 superuser: true
 
 # Role/position
-role: PhD Candidate in Finance
+role: Economist
 
 # Organizations/Affiliations
 organizations:
-- name: London School of Economics
+- name: Bank of Italy
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
-bio: I am a PhD Candidate in Finance at the London School of Economics
+bio: I am an Economist at the Bank of Italy and a PhD Candidate in Finance at the London School of Economics
 
 interests:
 - Household Finance
@@ -77,6 +77,7 @@ user_groups:
 #- Visitors
 ---
 
-I am a PhD Candidate in Finance at the London School of Economics. I am interested in Household and Corporate Finance.
+I am an Economist at the Bank of Italy and a PhD Candidate in Finance at the London School of Economics. I work in the DG Economics, Statistics, and Research. I am interested in Corporate and Household Finance.
 
-You can find my CV [here](files/cv.pdf).
+You can find my CV [here](files/CV_Dec2020.pdf).
+
