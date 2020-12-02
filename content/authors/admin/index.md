@@ -77,7 +77,9 @@ user_groups:
 #- Visitors
 ---
 
-I am an Economist at the Bank of Italy and a PhD Candidate in Finance at the London School of Economics. I work in the DG Economics, Statistics, and Research. I am interested in Corporate and Household Finance.
+I am an Economist at the Bank of Italy and a PhD Candidate in Finance at the London School of Economics.
+
+I work in the DG Economics, Statistics, and Research. I am interested in Corporate and Household Finance.
 
 You can find my CV [here](files/CV_Dec2020.pdf).
 
