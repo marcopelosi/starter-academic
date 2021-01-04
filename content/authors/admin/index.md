@@ -14,7 +14,7 @@ organizations:
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
-bio: I am an Economist at the Bank of Italy and a PhD Candidate in Finance at the London School of Economics
+bio: I am an Economist at the Bank of Italy and a PhD Candidate in Finance at the London School of Economics and Political Science (LSE).
 
 interests:
 - Household Finance
@@ -77,9 +77,11 @@ user_groups:
 #- Visitors
 ---
 
-I am an Economist at the Bank of Italy and a PhD Candidate in Finance at the London School of Economics.
+I am an Economist at the Bank of Italy and a PhD Candidate in Finance at the London School of Economics and Political Science (LSE).
 
 I work in the DG Economics, Statistics, and Research. I am interested in Corporate and Household Finance.
 
 You can find my CV [here](files/CV_Dec2020.pdf).
+
+<font size="1"> *This is my personal website and the views expressed here do not necessarily reflect those of the Bank of Italy, the Eurosystem or their staffs.* </font>
 

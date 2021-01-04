@@ -97,7 +97,7 @@ address = {street = "Via Nazionale, 190", city = "Rome", region = "", postcode =
 
 # Geographic coordinates
 # To get your coordinates, right-click on Google Maps and choose "What's here?". The coords will show up at the bottom.
-coordinates = {latitude = "41.8973509", longitude = "12.4867947"}
+coordinates = {latitude = "41.8975", longitude = "12.48887"}
 
 # Directions for visitors to locate you.
 directions = ""
