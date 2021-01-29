@@ -45,7 +45,7 @@ At LSE I have been Teaching Assistant at Undergraduate, Postgraduate, and Execut
 --------------------------
 
 - <span style="color:grey">2015-2020</span> **PhD Scholarship**, LSE Department of Finance
-- <span style="color:grey">2015</span> **Scholarship** in memory of Giorgio Mortara, Bank of Italy (eligible)
+- <span style="color:grey">2015</span> **Scholarship** in memory of Giorgio Mortara, Bank of Italy (merit mention)
 - <span style="color:grey">2012-2015</span> Allievi Honors **Scholarship**, Collegio Carlo Alberto
 - <span style="color:grey">2015</span> **Scholarship** in memory of Mario Borello
 - <span style="color:grey">2015</span> **Scholarship** in memory of Giovannello Giolitti (declined)
