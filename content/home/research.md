@@ -19,7 +19,7 @@ subtitle = ""
 
 -----------------------
 
-Advantageous Selection in Fintech Loans (*draft coming soon*)
+Advantageous Selection in Fintech Loans [[pdf](http://ssrn.com/abstract=3786766)]
 
 Living on the Edge: the Salience of Property Taxes in the UK Housing Market (with [Francesco Nicolai](https://francesconicolai.github.io/) and [Simona Risteska](https://risteskasimona.github.io/)) [[pdf](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3381519)]
 
