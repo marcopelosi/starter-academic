@@ -17,7 +17,6 @@ organizations:
 bio: I am an Economist at the Bank of Italy and a PhD Candidate in Finance at the London School of Economics and Political Science (LSE).
 
 interests:
-- Fintech
 - Household Finance
 - Corporate Finance
 
@@ -25,7 +24,7 @@ education:
   courses:
   - course: PhD in Finance
     institution: London School of Economics
-    year: 2022 (expected)
+    year: 2021 (expected)
   - course: MRes in Finance
     institution: London School of Economics
     year: 2017
@@ -82,6 +81,4 @@ I am an Economist at the Bank of Italy and a PhD Candidate in Finance at the Lon
 
 I work in the DG Economics, Statistics, and Research. I am interested in Fintech, Corporate and Household Finance, and Financial Intermediation.
 
-I am on the 2021-2022 job market and will be available for interviews during the EEA and ASSA meetings.
-
-You can find my academic CV [here](files/CV_Long_Nov2021.pdf) (or a shorter version [here](files/CV_Short_Nov2021.pdf)).
+You can find my academic CV [here](files/CV_Long_Nov2021.pdf).
