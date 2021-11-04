@@ -17,7 +17,6 @@ organizations:
 bio: I am an Economist at the Bank of Italy and a PhD Candidate in Finance at the London School of Economics and Political Science (LSE).
 
 interests:
-- Fintech
 - Household Finance
 - Corporate Finance
 
