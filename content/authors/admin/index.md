@@ -24,7 +24,7 @@ education:
   courses:
   - course: PhD in Finance
     institution: London School of Economics
-    year: 2021 (expected)
+    year: 2022 (expected)
   - course: MRes in Finance
     institution: London School of Economics
     year: 2017
