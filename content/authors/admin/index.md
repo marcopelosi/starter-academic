@@ -6,11 +6,11 @@ title: Marco Pelosi
 superuser: true
 
 # Role/position
-role: Economist
+#role: Economist
 
 # Organizations/Affiliations
-organizations:
-- name: Bank of Italy
+#organizations:
+#- name: Bank of Italy
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
@@ -85,4 +85,4 @@ I work in the DG Economics, Statistics, and Research. I am interested in Fintech
 
 I am on the 2021-2022 job market and will be available for interviews during the EEA and ASSA meetings.
 
-You can find my academic CV [here](files/CV_Long_Nov2021.pdf) (or a shorter version [here](files/CV_Long_Nov2021.pdf)).
+You can find my academic CV [here](files/CV_Long_Nov2021.pdf) (or a shorter version [here](files/CV_Short_Nov2021.pdf)).

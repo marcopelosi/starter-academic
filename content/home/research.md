@@ -21,8 +21,14 @@ subtitle = ""
 
 Advantageous Selection in Fintech Loans [[pdf](http://ssrn.com/abstract=3786766)]
 
+Broadband and Bank Intermediation (with [Angelo D'Andrea](https://sites.google.com/view/angelodandrea/) and [Enrico Sette](https://sites.google.com/site/settenrico/)) (*draft available soon*)
+
 Living on the Edge: the Salience of Property Taxes in the UK Housing Market (with [Francesco Nicolai](https://francesconicolai.github.io/) and [Simona Risteska](https://risteskasimona.github.io/)) [[pdf](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3381519)]
 
-Fast Internet and Credit (with [Angelo D'Andrea](https://sites.google.com/view/angelodandrea/) and [Enrico Sette](https://sites.google.com/site/settenrico/)) (*draft available soon*)
-
 Antitakeover Laws and Leverage (*draft available upon request*) 
+
+## Policy Papers
+
+-----------------------
+
+Zombie Firms and the Take-up of Support Measures During Covid-19 (with Giacomo Rodano and [Enrico Sette](https://sites.google.com/site/settenrico/)) (*draft available soon*)
