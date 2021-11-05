@@ -19,7 +19,7 @@ subtitle = ""
 
 -----------------------
 
-Advantageous Selection in Fintech Loans [[pdf](http://ssrn.com/abstract=3786766)]
+Advantageous Selection in Fintech Loans [[pdf](http://ssrn.com/abstract=3786766)] **(Job Market Paper)**
 
 Broadband and Bank Intermediation (with [Angelo D'Andrea](https://sites.google.com/view/angelodandrea/) and [Enrico Sette](https://sites.google.com/site/settenrico/)) (*draft available soon*)
 
