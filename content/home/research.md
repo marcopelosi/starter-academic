@@ -21,7 +21,7 @@ subtitle = ""
 
 Advantageous Selection in Fintech Loans [[pdf](files/Pelosi_JMP.pdf)] **(Job Market Paper)**
 
-Broadband and Bank Intermediation (with [Angelo D'Andrea](https://sites.google.com/view/angelodandrea/) and [Enrico Sette](https://sites.google.com/site/settenrico/)) (*draft available soon*)
+Broadband and Bank Intermediation (with [Angelo D'Andrea](https://sites.google.com/view/angelodandrea/) and [Enrico Sette](https://sites.google.com/site/settenrico/)) [[pdf](files/broadband_bank_intermediation.pdf)]
 
 Living on the Edge: the Salience of Property Taxes in the UK Housing Market (with [Francesco Nicolai](https://francesconicolai.github.io/) and [Simona Risteska](https://risteskasimona.github.io/)) [[pdf](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3381519)]
 
