@@ -85,4 +85,4 @@ I work in the DG Economics, Statistics, and Research. I am interested in Fintech
 
 I am on the 2021-2022 job market and will be available for interviews during the EEA and ASSA meetings.
 
-You can find my Job Market Paper [here](files/Pelosi_JMP.pdf) and my academic CV [here](files/CV_Long_Nov2021.pdf) (or see [here](files/CV_Short_Nov2021.pdf) for a one-page version).
+You can find my Job Market Paper [here](files/Pelosi_JMP.pdf) and my academic CV [here](files/CV_Long__Nov2021_.pdf) (or see [here](files/CV_Short__Nov2021_.pdf) for a one-page version).

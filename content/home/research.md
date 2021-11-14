@@ -25,8 +25,6 @@ Broadband and Bank Intermediation (with [Angelo D'Andrea](https://sites.google.c
 
 Living on the Edge: the Salience of Property Taxes in the UK Housing Market (with [Francesco Nicolai](https://francesconicolai.github.io/) and [Simona Risteska](https://risteskasimona.github.io/)) [[pdf](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3381519)]
 
-Antitakeover Laws and Leverage (*draft available upon request*) 
-
 ## Policy Papers
 
 -----------------------
