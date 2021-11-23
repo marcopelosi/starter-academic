@@ -29,4 +29,4 @@ Living on the Edge: the Salience of Property Taxes in the UK Housing Market (wit
 
 -----------------------
 
-Zombie Firms and the Take-up of Support Measures During Covid-19 (with Giacomo Rodano and [Enrico Sette](https://sites.google.com/site/settenrico/)) (*draft available soon*)
+Zombie Firms and the Take-up of Support Measures During Covid-19 (with Giacomo Rodano and [Enrico Sette](https://sites.google.com/site/settenrico/)) [[pdf](files/PRS_zombieQEF.pdf)]
