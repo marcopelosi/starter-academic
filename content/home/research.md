@@ -19,7 +19,7 @@ subtitle = ""
 
 -----------------------
 
-Advantageous Selection in Fintech Loans [[pdf](files/Pelosi_JMP.pdf)] **(Job Market Paper)**
+Advantageous Selection in Fintech Loans [[pdf](files/Advantageous_Selection_in_Fintech_Loans.pdf)] 
 
 Broadband and Bank Intermediation (with [Angelo D'Andrea](https://sites.google.com/view/angelodandrea/) and [Enrico Sette](https://sites.google.com/site/settenrico/)) [[pdf](files/Broadband_Bank_Intermediation.pdf)]
 

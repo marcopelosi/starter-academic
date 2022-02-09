@@ -83,6 +83,4 @@ I am an Economist at the Bank of Italy and a PhD Candidate in Finance at the Lon
 
 I work in the DG Economics, Statistics, and Research. I am interested in Fintech, Financial Intermediation, Household and Corporate Finance.
 
-I am on the 2021-2022 job market and will be available for interviews during the EEA and ASSA meetings.
-
-You can find my Job Market Paper [here](files/Pelosi_JMP.pdf) and my academic CV [here](files/CV_Long__Nov2021_.pdf) (or see [here](files/CV_Short__Nov2021_.pdf) for a one-page version).
+You can find my academic CV [here](files/CV_Long__Nov2021_.pdf) (or see [here](files/CV_Short__Nov2021_.pdf) for a one-page version).
