@@ -14,7 +14,7 @@ superuser: true
 #  url: ""
 
 # Short bio (displayed in user profile at end of posts)
-bio: I am an Economist at the Bank of Italy and a PhD Candidate in Finance at the London School of Economics and Political Science (LSE).
+bio: I am an Economist at the Bank of Italy. I recently obtained my PhD in Finance from the London School of Economics.
 
 interests:
 - Fintech
@@ -79,8 +79,8 @@ user_groups:
 #- Visitors
 ---
 
-I am an Economist at the Bank of Italy and a PhD Candidate in Finance at the London School of Economics and Political Science (LSE).
+I am an Economist at the Bank of Italy. I recently obtained my PhD in Finance from [LSE](http://www.lse.ac.uk/), working under the supervision of [Daniel Paravisini](https://sites.google.com/site/paravisinidaniel/home) and [Dirk Jenter](https://personal.lse.ac.uk/jenter/).
 
 I work in the DG Economics, Statistics, and Research. I am interested in Fintech, Financial Intermediation, Household and Corporate Finance.
 
-You can find my academic CV [here](files/CV_Long__Nov2021_.pdf) (or see [here](files/CV_Short_May2022.pdf) for a one-page version).
+You can find my academic CV [here](files/CV_Long_Jul2022.pdf) (or see [here](files/CV_Short_Jul2022.pdf) for a one-page version).
