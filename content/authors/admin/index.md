@@ -79,7 +79,7 @@ user_groups:
 #- Visitors
 ---
 
-I am an Economist at the Bank of Italy. I recently obtained my PhD in Finance from [LSE](http://www.lse.ac.uk/), working under the supervision of [Daniel Paravisini](https://sites.google.com/site/paravisinidaniel/home) and [Dirk Jenter](https://personal.lse.ac.uk/jenter/).
+I am an Economist at the Bank of Italy. I recently obtained my PhD in Finance from the [LSE](http://www.lse.ac.uk/), working under the supervision of [Daniel Paravisini](https://sites.google.com/site/paravisinidaniel/home) and [Dirk Jenter](https://personal.lse.ac.uk/jenter/).
 
 I work in the DG Economics, Statistics, and Research. I am interested in Fintech, Financial Intermediation, Household and Corporate Finance.
 
