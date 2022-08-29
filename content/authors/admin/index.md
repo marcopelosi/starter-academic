@@ -83,4 +83,6 @@ I am an Economist at the Bank of Italy. I recently obtained my PhD in Finance fr
 
 I work in the DG Economics, Statistics, and Research. I am interested in Fintech, Financial Intermediation, Household and Corporate Finance.
 
-You can find my academic CV [here](files/CV_Long_Jul2022.pdf) (or see [here](files/CV_Short_Jul2022.pdf) for a one-page version).
+[Here](files/CV_Long_Jul2022.pdf) you can find my academic CV (or see [here](files/CV_Short_Jul2022.pdf) for a one-page version).
+
+You can contact me via email at **marco** [dot] **pelosi** [at] **bancaditalia** [dot] **it**.
