@@ -14,7 +14,7 @@ superuser: true
 #  url: ""
 
 # Short bio (displayed in user profile at end of posts)
-bio: I am an Economist at the Bank of Italy. I recently obtained my PhD in Finance from the London School of Economics.
+bio: Until April 2023, I was an Economist at the Bank of Italy. In 2022, I obtained a PhD in Finance from the London School of Economics.
 
 interests:
 - Fintech
@@ -79,10 +79,8 @@ user_groups:
 #- Visitors
 ---
 
-I am an Economist at the Bank of Italy. I recently obtained my PhD in Finance from the [LSE](http://www.lse.ac.uk/), working under the supervision of [Daniel Paravisini](https://sites.google.com/site/paravisinidaniel/home) and [Dirk Jenter](https://personal.lse.ac.uk/jenter/).
-
-I work in the DG Economics, Statistics, and Research. I am interested in Fintech, Financial Intermediation, Household and Corporate Finance.
+Until April 2023, I was an Economist at the Bank of Italy. In 2022, I received a PhD in Finance from the [LSE](http://www.lse.ac.uk/), working under the supervision of [Daniel Paravisini](https://sites.google.com/site/paravisinidaniel/home) and [Dirk Jenter](https://personal.lse.ac.uk/jenter/).
 
 [Here](files/CV_Long_Jul2022.pdf) you can find my academic CV (or see [here](files/CV_Short_Jul2022.pdf) for a one-page version).
 
-You can contact me via email at **marco** [dot] **pelosi** [at] **bancaditalia** [dot] **it**.
+You can contact me via email at **marcopelosi** [at] **gmail** [dot] **it**.
