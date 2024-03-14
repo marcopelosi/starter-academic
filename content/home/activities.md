@@ -27,6 +27,7 @@ At LSE I have been Teaching Assistant at Undergraduate, Postgraduate, and Execut
 
 - FM212: Principles of Finance
 - FM300: Corporate Finance, Investments, and Financial Markets
+- FM321: Risk Management and Modelling
 - FM250: Finance (Summer School)
 - FM225: Fixed Income Securities, Debt Markets and the Macro Economy (Summer School)
 - Statistics for Finance

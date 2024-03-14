@@ -19,11 +19,13 @@ subtitle = ""
 
 -----------------------
 
-Advantageous Selection in Fintech Loans (with [Fabrizio Core](https://sites.google.com/view/fabriziocore/)) [new draft available soon] 
+Check my co-authors' websites for the most recent version of the drafts 
 
-Broadband and Bank Intermediation (with [Angelo D'Andrea](https://sites.google.com/view/angelodandrea/) and [Enrico Sette](https://sites.google.com/site/settenrico/)) [[pdf](files/Broadband_Bank_Intermediation.pdf)]
+* Advantageous Selection in Fintech Loans (with [Fabrizio Core](https://sites.google.com/view/fabriziocore/)) 
 
-Living on the Edge: the Salience of Property Taxes in the UK Housing Market (with [Francesco Nicolai](https://francesconicolai.github.io/) and [Simona Risteska](https://risteskasimona.github.io/)) [[pdf](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3381519)]
+* Broadband and Bank Intermediation (with [Angelo D'Andrea](https://sites.google.com/view/angelodandrea/) and [Enrico Sette](https://sites.google.com/site/settenrico/))
+
+* Living on the Edge: the Salience of Property Taxes in the UK Housing Market (with [Francesco Nicolai](https://francesconicolai.github.io/) and [Simona Risteska](https://risteskasimona.github.io/))
 
 ## Policy Papers
 

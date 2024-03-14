@@ -16,12 +16,6 @@ superuser: true
 # Short bio (displayed in user profile at end of posts)
 bio: Until April 2023, I was an Economist at the Bank of Italy. In 2022, I obtained a PhD in Finance from the London School of Economics.
 
-interests:
-- Fintech
-- Financial Intermediation
-- Household Finance
-- Corporate Finance
-
 education:
   courses:
   - course: PhD in Finance
